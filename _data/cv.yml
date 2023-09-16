@@ -1,0 +1,95 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Tyler Sheaves
+    - name: Location
+      value: West Sacramento, CA
+    # - name: Date of Birth
+    #   value: 14th March 1879
+    # - name: Languages
+    #   value: English, German
+
+- title: Academic Interests
+  type: nested_list
+  contents:
+    - title: Secure Reconfigurable Systems
+      items: 
+        - Side-channel attacks/mitigations
+        - Confidential computing
+
+    - title: Logic Locking
+      items:
+        - Obfuscation using emerging memory technologies
+
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD Electrical and Computer Engineering
+      institution: University of California, Davis
+      year: 2025
+
+    - title: BS Electrical Engineering
+      institution: San Francisco State University
+      year: 2018
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Graduate Reasearch Assistant
+      institution: University of California, Davis
+      year: 2020-2023
+    
+    - title: Graduate Technical Intern
+      institution: Intel Programmable Solutions Group
+      year: 2020-2023
+      description:
+        - Intel Federal (1 year)
+        - Academic Program (1.5 years)
+
+    - title: Graduate Teaching Assistant
+      institution: University of California, Davis
+      year: 2020-2023
+      description:
+        - Digital Systems EEC 180 (3 quarters)
+        - Computer Architecture EEC 170 (2 quarters)
+        - Embedded Systems EEC 172 (1 quarter)
+        - Hardware Security EEC289Q (1 quarter)
+
+#     - title: Director
+#       institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
+#       year: 1917-1933
+
+#     - title: Professor of Theoretical Physics
+#       institution: Karl-Ferdinand University, Prague, Czechoslovakia
+#       year: 1911 - 1917
+#       description:
+
+#     - title: Associate Professor of Theoretical Physics
+#       institution: University of Zurich, Zurich, Switzerland
+#       year: 1909 - 1911
+
+# - title: Open Source Projects
+#   type: time_table
+#   contents:
+#     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+#       year: 2015-now
+#       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+
+# - title: Honors and Awards
+#   type: time_table
+#   contents:
+#     - year: 1921
+#       items: 
+#         - Nobel Prize in Physics 
+#         - Matteucci Medal
+#     - year: 2029
+#       items: 
+#         - Max Planck Medal
+
+
+
+# - title: Other Interests
+#   type: list
+#   contents:
+#     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
