@@ -1,6 +1,6 @@
 ---
 layout: page
 title: Meet With Me!
-nav: false
+nav: true
 nav_order: 2
 ---
