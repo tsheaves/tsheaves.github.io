@@ -5,6 +5,8 @@ nav: true
 nav_order: 2
 ---
 
+<h2>Meet with me<h2>
+
 If you would like to meet in person, please specify in the "Meeting Subject" field, and we can coordinate a meeting room.
 
 <!-- Google Calendar Appointment Scheduling begin -->

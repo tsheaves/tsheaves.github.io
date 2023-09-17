@@ -16,4 +16,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
+<h2>Tyler Sheaves<h2>
+
 Graduate research assistant at University of California, Davis working with the Hardware Systems Collective at University of California, Santa Cruz. Currently investingating hardware security threats to reconfigurable hardware platforms.
