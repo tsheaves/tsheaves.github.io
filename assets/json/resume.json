@@ -1,5 +1,5 @@
 {
-  "basics": {
+  "Overview": {
     "name": "Tyler Sheaves",
     "label": "Graduate Research Assistant",
     "image": "",
@@ -16,13 +16,18 @@
     },
     "profiles": [
       {
-        "network": "",
-        "username": "",
-        "url": ""
+        "network": "LinkedIn",
+        "username": "tylersheaves",
+        "url": "https://www.linkedin.com/in/tylersheaves/"
+      },
+      {
+        "network": "Google Scholar",
+        "username": "Tyler Sheaves",
+        "url": "https://scholar.google.com/citations?hl=en&user=f0IkIzwAAAAJ"
       }
     ]
   },
-  "work": [
+  "Recent Employment": [
     {
       "name": "University of California, Davis",
       "position": "Graduate Research Assistant"
@@ -33,7 +38,7 @@
     }
   ],
   "volunteer": [],
-  "education": [
+  "Education": [
     {
       "institution": "University of California, Davis",
       "url": "",
