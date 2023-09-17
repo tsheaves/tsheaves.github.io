@@ -18,8 +18,8 @@ social: true  # includes social icons at the bottom of the page
 
 <h2>Tyler Sheaves<h2>
 <h3>PhD Student<h3>
-<h3>Department of Electrical and Computer Engineering<h3>
-<h3>University of California, Davis<h3>
+<h5>Department of Electrical and Computer Engineering<h5>
+<h5>University of California, Davis<h5>
 
 <p>I'm a graduate research assistant at the University of California, Davis. Currently, I am investingating hardware security threats to reconfigurable hardware platforms with the Hardware Systems Collective at University of California, Santa Cruz. I previously worked as a graduate technical intern at the Intel Programmable Solutions Group (formerly Altera) where I developed confidential computing solutions and remote learning tools.<p>
 
