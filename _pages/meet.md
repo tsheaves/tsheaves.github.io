@@ -5,6 +5,8 @@ nav: true
 nav_order: 2
 ---
 
+<!-- _pages/meet.md -->
+
 <h2>Meet with me<h2>
 
 <p>If you would like to meet in person, please specify in the "Meeting Subject" field, and we can coordinate a meeting room. Otherwise, please use the Zoom link in the appointment email.<p>
