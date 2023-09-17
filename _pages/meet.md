@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /meet/
 title: meet
 nav: true
 nav_order: 2
