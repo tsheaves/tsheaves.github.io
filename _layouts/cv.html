@@ -52,7 +52,7 @@ layout: default
     {% if page.description %}<p class="post-description">{{ page.description }}</p>{% endif %}
   </header>
 
-  <!-- <h4>Table of contents</h4>
+  <h4>Table of contents</h4>
   <ul class="timeline">
   {% for entry in site.data.resume %}
     {% if site.jsonresume and site.jsonresume.size > 0 %}
@@ -65,9 +65,9 @@ layout: default
     {% endif %}
     <li><a href="#{{ entry[0] }}"><span class="badge-toc">{{ entry[0] | capitalize }}</span></a></li>
   {% endfor %}
-  </ul> -->
+  </ul>
 
-  <!-- <article>
+  <article>
     <div class="cv">
       {% for data in site.data.resume %}
         {% if site.jsonresume and site.jsonresume.size > 0 %}
@@ -83,11 +83,11 @@ layout: default
           <h3 class="card-title font-weight-medium">{{ data[0] | capitalize }}</h3>
           <div>
           {% case data[0] %}
-            {% when "General" %}
+            {% when "basics" %}
               {% include resume/basics.html %}
-            {% when "Education" %}
+            {% when "education" %}
               {% include resume/education.html %}
-            {% when "Recent Employment" %}
+            {% when "work" %}
               {% include resume/work.html %}
             {% when "volunteer" %}
               {% include resume/volunteer.html %}
@@ -112,7 +112,7 @@ layout: default
         </div>
       {% endfor %}
       </div>
-  </article> -->
+  </article>
 
 </div>
 {% endunless %}

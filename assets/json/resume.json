@@ -1,63 +1,8 @@
 {
-  "Overview": {
-    "name": "Tyler Sheaves",
-    "label": "Graduate Research Assistant",
-    "image": "",
-    "email": "tsheaves@ucdavis.edu",
-    "phone": "",
-    "url": "https://www.tylersheaves.com",
-    "summary": "A PhD student investigating hardware sucurity vulnerabilities within reconfigurable computing systems.",
-    "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "West Sacramento",
-      "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "LinkedIn",
-        "username": "tylersheaves",
-        "url": "https://www.linkedin.com/in/tylersheaves/"
-      },
-      {
-        "network": "Google Scholar",
-        "username": "Tyler Sheaves",
-        "url": "https://scholar.google.com/citations?hl=en&user=f0IkIzwAAAAJ"
-      }
-    ]
-  },
-  "Recent Employment": [
-    {
-      "name": "University of California, Davis",
-      "position": "Graduate Research Assistant"
-    },
-    {
-      "name": "Intel Programmable Solutions Group",
-      "position": "Graduate Techincal Intern"
-    }
-  ],
+  "basics": [],
+  "work": [],
   "volunteer": [],
-  "Education": [
-    {
-      "institution": "University of California, Davis",
-      "url": "",
-      "area": "",
-      "studyType": "PhD Electrical and Computer Engineering",
-      "startDate": "2020-06-01",
-      "endDate": "present",
-      "score": ""
-    },
-    {
-      "institution": "University of California, Davis",
-      "url": "",
-      "area": "",
-      "studyType": "BS Electrical Engineering",
-      "startDate": "",
-      "endDate": "2018-01-17",
-      "score": ""
-    }
-  ],
+  "education": [],
   "awards": [],
   "certificates": [],
   "publications": [],
