@@ -17,7 +17,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 <h2>Tyler Sheaves<h2>
-<h3>PhD Student<h3>
+<h3>PhD Candidate<h3>
 <h5>Department of Electrical and Computer Engineering<h5>
 <h5>University of California, Davis<h5>
 
