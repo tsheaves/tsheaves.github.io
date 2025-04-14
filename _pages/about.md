@@ -17,11 +17,11 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 <h2>Tyler Sheaves<h2>
-<h3>PhD Candidate<h3>
-<h5>Department of Electrical and Computer Engineering<h5>
-<h5>University of California, Davis<h5>
+<h3>PhD Student<h3>
+<h5>Department of Computer Science and Engineering<h5>
+<h5>University of California, Santa Cruz<h5>
 
-<p>I'm a graduate research assistant at the University of California, Davis. Currently, I am investingating hardware security threats to reconfigurable hardware platforms with the Hardware Systems Collective at University of California, Santa Cruz. I previously worked as a graduate technical intern at the Intel Programmable Solutions Group (formerly Altera) where I developed confidential computing solutions and remote learning tools.<p>
+<p>Graduate research assistant at the University of California, Santa Cruz. Currently investingating hardware security threats from defect generation and migration. Former graduate technical intern at the Intel Programmable Solutions Group (now back to Altera) where I developed confidential computing IP and remote learning tools.<p>
 
 <!-- <div class="row">
   <div class="column">
