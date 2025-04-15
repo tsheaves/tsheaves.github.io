@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 <h5>Department of Electrical and Computer Engineering<h5>
 <h5>University of California, Davis<h5>
 
-<p>I'm a graduate research assistant at the University of California, Davis. Currently, I am investingating hardware security threats to reconfigurable hardware platforms with the Hardware Systems Collective at University of California, Santa Cruz. I previously worked as a graduate technical intern at the Intel Programmable Solutions Group (formerly Altera) where I developed confidential computing solutions and remote learning tools.<p>
+<p>Graduate research assistant at the University of California, Santa Cruz. Investingating hardware security vulnerabilities caused by defect generation and migration in FPGAs and emerging memories. Former graduate technical intern at the Intel Programmable Solutions Group (formerly Altera) where I developed confidential computing IP and remote FPGA education tools.<p>
 
 <!-- <div class="row">
   <div class="column">
