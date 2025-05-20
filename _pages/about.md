@@ -17,8 +17,8 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 <h2>Tyler Sheaves<h2>
-<h3>PhD Candidate<h3>
-<h5>Department of Electrical and Computer Engineering<h5>
+<h3>PhD Student<h3>
+<h5>Department of Computer Science and Engineering<h5>
 <h5>University of California, Santa Cruz<h5>
 
 <p>Graduate research assistant at the University of California, Santa Cruz. Investingating hardware security vulnerabilities caused by defect generation and migration in FPGAs and emerging memories. Former graduate technical intern at the Intel Programmable Solutions Group (now Altera) where I developed confidential computing IP and remote FPGA education tools.<p>
