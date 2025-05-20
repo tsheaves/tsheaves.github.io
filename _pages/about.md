@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 <h5>Department of Computer Science and Engineering<h5>
 <h5>University of California, Santa Cruz<h5>
 
-<p>Graduate research assistant at the University of California, Santa Cruz. Investingating hardware security vulnerabilities caused by defect generation and migration in FPGAs and emerging memories. Former graduate technical intern at the Intel Programmable Solutions Group (now Altera) where I developed confidential computing IP and remote FPGA education tools.<p>
+<p>Graduate research assistant with the  <a href="https://hsc.soe.ucsc.edu" target="_blank">Hardware Systems Collective</a> at UCSC. Currently investingating hardware security vulnerabilities caused by defect generation and migration in FPGAs and emerging memories. Former graduate technical intern at the Intel Programmable Solutions Group (now Altera) where I developed confidential computing IP and remote FPGA education tools.<p>
 
 <!-- <div class="row">
   <div class="column">
