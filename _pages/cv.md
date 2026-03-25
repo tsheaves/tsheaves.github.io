@@ -1,7 +1,7 @@
 ---
 layout: cv
 permalink: /resume/
-title: Resume
+title: resume
 nav: true
 nav_order: 4
 cv_pdf: tyler_sheaves_resume.pdf
